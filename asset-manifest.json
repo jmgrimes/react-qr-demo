@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/react-qr-demo/static/css/main.5e0f11a3.chunk.css",
+    "main.js": "/react-qr-demo/static/js/main.faae4076.chunk.js",
+    "main.js.map": "/react-qr-demo/static/js/main.faae4076.chunk.js.map",
+    "runtime-main.js": "/react-qr-demo/static/js/runtime-main.2f37e04b.js",
+    "runtime-main.js.map": "/react-qr-demo/static/js/runtime-main.2f37e04b.js.map",
+    "static/js/2.18f361ac.chunk.js": "/react-qr-demo/static/js/2.18f361ac.chunk.js",
+    "static/js/2.18f361ac.chunk.js.map": "/react-qr-demo/static/js/2.18f361ac.chunk.js.map",
+    "static/js/3.cda485f3.chunk.js": "/react-qr-demo/static/js/3.cda485f3.chunk.js",
+    "static/js/3.cda485f3.chunk.js.map": "/react-qr-demo/static/js/3.cda485f3.chunk.js.map",
+    "index.html": "/react-qr-demo/index.html",
+    "static/css/main.5e0f11a3.chunk.css.map": "/react-qr-demo/static/css/main.5e0f11a3.chunk.css.map",
+    "static/js/2.18f361ac.chunk.js.LICENSE.txt": "/react-qr-demo/static/js/2.18f361ac.chunk.js.LICENSE.txt",
+    "static/media/heart.3d7839e5.svg": "/react-qr-demo/static/media/heart.3d7839e5.svg",
+    "static/media/ld_logo_white.c7ccd94b.png": "/react-qr-demo/static/media/ld_logo_white.c7ccd94b.png",
+    "static/media/ld_logo_white_old.a7492e3d.png": "/react-qr-demo/static/media/ld_logo_white_old.a7492e3d.png",
+    "static/media/toggle.1d752285.png": "/react-qr-demo/static/media/toggle.1d752285.png",
+    "static/media/toggle_old.09554e17.png": "/react-qr-demo/static/media/toggle_old.09554e17.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2f37e04b.js",
+    "static/js/2.18f361ac.chunk.js",
+    "static/css/main.5e0f11a3.chunk.css",
+    "static/js/main.faae4076.chunk.js"
+  ]
+}
