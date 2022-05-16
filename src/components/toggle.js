@@ -2,8 +2,8 @@ import { withLDConsumer } from "launchdarkly-react-client-sdk";
 import toggle from "./../images/toggle.png";
 import oldtoggle from "./../images/toggle_old.png";
 
-const toggleLogo = ({ flags, ldClient /*, ...otherProps */ }) => {
-  let showFeature = ldClient.variation("reactChildToggle");
+const toggleLogo = ({ flags: _, ldClient /*, ...otherProps */ }) => {
+  let showFeature = ldClient.variation("reactParentBrand") && ldClient.variation("reactChildToggle");
   
   return showFeature ? (
   <div>
