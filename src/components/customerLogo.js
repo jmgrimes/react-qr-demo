@@ -1,7 +1,7 @@
 import { withLDConsumer } from "launchdarkly-react-client-sdk";
 
 const customerLogo = ({ flags: _, ldClient /*, ...otherProps */ }) => {
-  let showFeature = ldClient.variation("reactParentBrand") && ldClient.variation("reactShowCustomerLogo");
+  let showFeature = ldClient.variation("reactShowCustomerLogo");
   let logo = ldClient.variation("reactCustomerLogo");
 
   return showFeature ? (

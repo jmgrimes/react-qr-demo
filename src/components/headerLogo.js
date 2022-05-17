@@ -3,7 +3,7 @@ import ldlogo from "./../images/ld_logo_white.png";
 import oldldlogo from "./../images/ld_logo_white_old.png";
 
 const headerLogo = ({ flags: _, ldClient /*, ...otherProps */ }) => {
-  let showFeature = ldClient.variation("reactParentBrand") && ldClient.variation("reactChildHeaderLogo");
+  let showFeature = ldClient.variation("reactChildHeaderLogo");
   
   return showFeature ? (
   <div>
